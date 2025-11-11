@@ -1,8 +1,6 @@
 
-# Land Registry System Using Blockchain Technology
-
-A secure, transparent, and tamper-proof digital land registry built using Python Flask and Blockchain concepts. This system improves land transaction trustworthiness through decentralized ledger records.
-
+# Blockchain-Based Land Registration System
+A blockchain-based digital land registry built with Python Flask that ensures security, transparency, and immutability. It enhances trust in land transactions through decentralized and tamper-proof record management.
 ---
 
 ## Features
@@ -50,4 +48,4 @@ Distributed under the MIT License. See `LICENSE` for more info.
 
 ## Author
 
-- Matheen B – Developer
+- Srinidhi BG – Developer
